@@ -3,7 +3,9 @@
 Final project of Computational Quantum Dynamics lecture some years ago. Project and 
 [report](https://dl.orangedox.com/H2DissociationDynamics) made together with @kkiefer, renewed.
 
-<img src="imgs/titelbild.png" width="800" class="center"/>
+<p align="center">
+   <img src="imgs/titelbild.png" width="800" />
+</p>
 
 ## Methods
 
@@ -47,7 +49,9 @@ Atomic Units:
 
 ### 1. Find the vibrational eigenstates in the H2+ ground state potential
 
-<img src="imgs/bound_eigenstates.gif" width="400" class="center"/>
+<p align="center">
+   <img src="plots/bound_eigenstates.gif" width="400" />
+</p>
 
 Methods:
 
@@ -57,7 +61,9 @@ Methods:
 
 ### 2. Simulate the wave packet propagation without the IR laser field
 
-<img src="imgs/time_evol_wo_laser.gif" width="400" class="center"/>
+<p align="center">
+   <img src="plots/time_evol_wo_laser.gif" width="400" />
+</p>
 
 Methods:
 
@@ -67,7 +73,9 @@ Methods:
 
 ### 3. Simulate the dynamics of the time-dependent system
 
-<img src="imgs/laser_field_evolution.gif" width="400" class="center"/>
+<p align="center">
+   <img src="plots/laser_field_evolution.gif" width="400" />
+</p>
 
 Methods:
 
@@ -77,7 +85,9 @@ Methods:
 
 ### 4. Scan the delay time and analyze the momentum distribution
 
-<img src="imgs/example_slice.png" width="400" class="center"/>
+<p align="center">
+   <img src="imgs/exampleslice.png" width="400"/>
+</p>
 
 Methods:
 
