@@ -1,7 +1,9 @@
 # Dissociation Dynamics of H2+ in XUV and IR laser fields
 
 Final project of Computational Quantum Dynamics lecture some years ago. Project and 
-[report](https://dl.orangedox.com/H2DissociationDynamics) made together with @kkiefer.
+[report](https://dl.orangedox.com/H2DissociationDynamics) made together with @kkiefer, renewed.
+
+<img src="imgs/titelbild.png" width="800" class="center"/>
 
 ## Methods
 
@@ -45,7 +47,7 @@ Atomic Units:
 
 ### 1. Find the vibrational eigenstates in the H2+ ground state potential
 
-<img src="imgs/bound_eigenstates.gif" width="400"/>
+<img src="imgs/bound_eigenstates.gif" width="400" class="center"/>
 
 Methods:
 
@@ -55,7 +57,7 @@ Methods:
 
 ### 2. Simulate the wave packet propagation without the IR laser field
 
-<img src="imgs/time_evol_wo_laser.gif" width="400"/>
+<img src="imgs/time_evol_wo_laser.gif" width="400" class="center"/>
 
 Methods:
 
@@ -65,7 +67,7 @@ Methods:
 
 ### 3. Simulate the dynamics of the time-dependent system
 
-<img src="imgs/laser_field_evolution.gif" width="400"/>
+<img src="imgs/laser_field_evolution.gif" width="400" class="center"/>
 
 Methods:
 
@@ -75,7 +77,7 @@ Methods:
 
 ### 4. Scan the delay time and analyze the momentum distribution
 
-<img src="imgs/titelbild.png" width="400"/>
+<img src="imgs/example_slice.png" width="400" class="center"/>
 
 Methods:
 
